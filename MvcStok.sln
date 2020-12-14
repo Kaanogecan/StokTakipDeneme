@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcStok", "MvcStok\MvcStok.csproj", "{877523C8-43F2-4401-9C9B-49710E325497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877523C8-43F2-4401-9C9B-49710E325497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877523C8-43F2-4401-9C9B-49710E325497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877523C8-43F2-4401-9C9B-49710E325497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877523C8-43F2-4401-9C9B-49710E325497}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2958653D-48D4-42C9-8F03-8ABDBF319586}
+	EndGlobalSection
+EndGlobal
