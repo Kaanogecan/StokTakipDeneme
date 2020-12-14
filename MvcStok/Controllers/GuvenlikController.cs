@@ -19,7 +19,7 @@ namespace MvcStok.Controllers
         [HttpPost]
         public ActionResult GirisYap(TBLKULLANICI t)
         {
-
+            //test
             var bilgiler = db.TBLKULLANICI.FirstOrDefault(x => x.AD == t.AD && x.SIFRE == t.SIFRE);
             if (bilgiler != null)
             {
